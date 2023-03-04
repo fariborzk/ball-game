@@ -1,3 +1,3 @@
-C:/Users/fariborz/CLionProjects/Cpp_project/cmake-build-debug/CMakeFiles/Cpp_project.dir
-C:/Users/fariborz/CLionProjects/Cpp_project/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/fariborz/CLionProjects/Cpp_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/fariborz/CLionProjects/ball game/cmake-build-debug/CMakeFiles/Cpp_project.dir
+C:/Users/fariborz/CLionProjects/ball game/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fariborz/CLionProjects/ball game/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
-    <generated>
-      <config projectName="Cpp_project" targetName="Cpp_project" />
-    </generated>
+    <generated />
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -12,208 +10,98 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0eaca044-2e76-4df5-8e7e-a749a2bc6032" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../fds/.idea/Cpp_project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mar/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mar/.idea/mar.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mar/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mar/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mar/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mar/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mar/src/main.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/.idea/test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/src/main.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/.idea/test1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-gfx-include/SDL2_framerate.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-gfx-include/SDL2_gfxPrimitives.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-gfx-include/SDL2_gfxPrimitives_font.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-gfx-include/SDL2_imageFilter.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-gfx-include/SDL2_rotozoom.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-gfx-lib/libsdl-gfx.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_assert.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_atomic.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_audio.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_bits.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_blendmode.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_clipboard.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_config.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_cpuinfo.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_egl.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_endian.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_error.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_events.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_filesystem.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_gamecontroller.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_gesture.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_haptic.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_hints.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_joystick.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_keyboard.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_keycode.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_loadso.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_log.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_main.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_messagebox.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_mouse.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_mutex.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_name.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_opengl.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_opengl_glext.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_opengles.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_opengles2.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_opengles2_gl2.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_opengles2_gl2ext.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_opengles2_gl2platform.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_opengles2_khrplatform.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_pixels.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_platform.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_power.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_quit.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_rect.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_render.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_revision.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_rwops.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_scancode.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_shape.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_stdinc.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_surface.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_system.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_syswm.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_test.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_test_assert.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_test_common.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_test_compare.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_test_crc32.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_test_font.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_test_fuzzer.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_test_harness.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_test_images.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_test_log.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_test_md5.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_test_memory.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_test_random.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_thread.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_timer.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_touch.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_types.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_version.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_video.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/SDL_vulkan.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/begin_code.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-include/close_code.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-lib/libSDL2.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/sdl2/sdl2-lib/libSDL2main.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/.idea/test3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-gfx-include/SDL2_framerate.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-gfx-include/SDL2_gfxPrimitives.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-gfx-include/SDL2_gfxPrimitives_font.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-gfx-include/SDL2_imageFilter.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-gfx-include/SDL2_rotozoom.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-gfx-lib/libsdl-gfx.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_assert.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_atomic.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_audio.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_bits.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_blendmode.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_clipboard.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_config.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_cpuinfo.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_egl.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_endian.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_error.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_events.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_filesystem.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_gamecontroller.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_gesture.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_haptic.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_hints.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_joystick.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_keyboard.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_keycode.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_loadso.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_log.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_main.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_messagebox.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_mouse.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_mutex.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_name.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_opengl.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_opengl_glext.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_opengles.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_opengles2.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_opengles2_gl2.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_opengles2_gl2ext.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_opengles2_gl2platform.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_opengles2_khrplatform.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_pixels.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_platform.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_power.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_quit.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_rect.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_render.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_revision.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_rwops.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_scancode.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_shape.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_stdinc.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_surface.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_system.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_syswm.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_test.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_test_assert.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_test_common.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_test_compare.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_test_crc32.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_test_font.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_test_fuzzer.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_test_harness.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_test_images.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_test_log.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_test_md5.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_test_memory.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_test_random.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_thread.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_timer.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_touch.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_types.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_version.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_video.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/SDL_vulkan.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/begin_code.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-include/close_code.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-lib/libSDL2.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/sdl2/sdl2-lib/libSDL2main.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/untitled.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/main.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/untitled1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled10/.idea/untitled10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled11/.idea/untitled11.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled12/.idea/untitled12.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled13/.idea/untitled13.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled14/.idea/untitled14.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled15/.idea/untitled15.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled16/.idea/untitled16.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled17/.idea/untitled17.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled19/.idea/untitled19.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/untitled2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled20/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled20/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled20/.idea/untitled20.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled20/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled20/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled20/main.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/untitled3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled4/.idea/untitled4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled6/.idea/untitled6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled7/.idea/untitled7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled8/.idea/untitled8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled9/.idea/untitled9.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cpp-project/.idea/Cpp-project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mar/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../mar/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mar/src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../mar/src/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../test/src/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/.idea/untitled20.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled20/.idea/untitled20.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/WorkShop_StepCodes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled20/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-gfx-include/SDL2_framerate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-gfx-include/SDL2_gfxPrimitives.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-gfx-include/SDL2_gfxPrimitives_font.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-gfx-include/SDL2_imageFilter.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-gfx-include/SDL2_rotozoom.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-gfx-lib/libsdl-gfx.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_assert.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_atomic.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_audio.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_bits.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_blendmode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_clipboard.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_config.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_cpuinfo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_egl.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_endian.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_error.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_events.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_filesystem.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_gamecontroller.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_gesture.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_haptic.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_hints.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_joystick.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_keyboard.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_keycode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_loadso.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_log.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_main.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_messagebox.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_mouse.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_mutex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_name.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_opengl.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_opengl_glext.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_opengles.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_opengles2.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_opengles2_gl2.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_opengles2_gl2ext.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_opengles2_gl2platform.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_opengles2_khrplatform.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_pixels.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_platform.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_power.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_quit.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_rect.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_render.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_revision.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_rwops.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_scancode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_shape.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_stdinc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_surface.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_system.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_syswm.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_test.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_test_assert.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_test_common.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_test_compare.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_test_crc32.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_test_font.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_test_fuzzer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_test_harness.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_test_images.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_test_log.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_test_md5.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_test_memory.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_test_random.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_thread.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_timer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_touch.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_types.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_version.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_video.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/SDL_vulkan.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/begin_code.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-include/close_code.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-lib/libSDL2.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/sdl2/sdl2-lib/libSDL2main.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/snake.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/src/images.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled20/src/main.c" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -224,9 +112,8 @@
     <option name="clangTidyViaClangd" value="false" />
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -260,7 +147,7 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="cmake.loaded.for.project" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ball game/CMakeLists.txt" />
     <property name="structure.view.defaults.are.configured" value="true" />
   </component>
   <component name="RecentsManager">
@@ -272,12 +159,12 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Cpp_project" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_project" TARGET_NAME="Cpp_project" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_project" RUN_TARGET_NAME="Cpp_project">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration name="Cpp_project" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_project" TARGET_NAME="Cpp_project" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_project" RUN_TARGET_NAME="Cpp_project">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -302,6 +189,8 @@
       <workItem from="1658991816003" duration="493000" />
       <workItem from="1677548737907" duration="713000" />
       <workItem from="1677846663318" duration="1030000" />
+      <workItem from="1677889448565" duration="212000" />
+      <workItem from="1677891373646" duration="187000" />
     </task>
     <servers />
   </component>

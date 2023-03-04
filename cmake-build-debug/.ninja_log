@@ -1,5 +1,5 @@
 # ninja log v5
-2	268	6802598450994290	CMakeFiles/Cpp_project.dir/src/main.c.obj	f6455d254716b8c3
-268	551	6802598453754208	Cpp_project.exe	bebb97f81b712712
 3	603	6995563789746529	CMakeFiles/Cpp_project.dir/src/main.c.obj	f6455d254716b8c3
 603	1852	6995563802146514	Cpp_project.exe	bebb97f81b712712
+3	542	6995953856017533	CMakeFiles/Cpp_project.dir/src/main.c.obj	ab6969c89d764c92
+543	1054	6995953861037516	Cpp_project.exe	bebb97f81b712712
